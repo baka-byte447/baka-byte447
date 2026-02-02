@@ -1,7 +1,7 @@
 # 💫 About Me:
-🚀 Learning Deep Learning & Backend Development
-☁️ Working on a CloudOps project
-🧠 Practicing DSA for strong problem-solving
+🚀 Learning Deep Learning & Backend Development<br>
+☁️ Working on a CloudOps project<br>
+🧠 Practicing DSA for strong problem-solving<br>
 🎧 Coding with music on repeat<br>
 
 
