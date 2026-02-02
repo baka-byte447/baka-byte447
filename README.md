@@ -243,12 +243,8 @@ const milan = {
 
 <div align="center">
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baka-byte447/baka-byte447/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baka-byte447/baka-byte447/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/baka-byte447/baka-byte447/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Animated Coding GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="600" alt="Coding Animation"/>
 
 </div>
 
