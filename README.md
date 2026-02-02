@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently learning Deep Learning, Backend Development<br>Working on a CloudOps project<br>Building Problem Solving approach by DSA<br>Loves listening to music while working<br>
+🚀 Learning Deep Learning & Backend Development
+☁️ Working on a CloudOps project
+🧠 Practicing DSA for strong problem-solving
+🎧 Coding with music on repeat<br>
 
 
 ## 🌐 Socials:
